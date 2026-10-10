@@ -1,0 +1,662 @@
+{
+ "n_levels_seq": 943,
+ "mech_first": [
+  {
+   "mech": "Rock",
+   "seq_pos": 0,
+   "level": "rowboat_wizard_v2",
+   "set": "advanced_bard_and_water"
+  },
+  {
+   "mech": "Heroes",
+   "seq_pos": 0,
+   "level": "rowboat_wizard_v2",
+   "set": "advanced_bard_and_water"
+  },
+  {
+   "mech": "Water",
+   "seq_pos": 0,
+   "level": "rowboat_wizard_v2",
+   "set": "advanced_bard_and_water"
+  },
+  {
+   "mech": "Monsters",
+   "seq_pos": 0,
+   "level": "rowboat_wizard_v2",
+   "set": "advanced_bard_and_water"
+  },
+  {
+   "mech": "Sun",
+   "seq_pos": 0,
+   "level": "rowboat_wizard_v2",
+   "set": "advanced_bard_and_water"
+  },
+  {
+   "mech": "Tower",
+   "seq_pos": 1,
+   "level": "rowboat",
+   "set": "advanced_bard_and_water"
+  },
+  {
+   "mech": "Mirror",
+   "seq_pos": 6,
+   "level": "bard_movable_island",
+   "set": "advanced_bard_and_water"
+  },
+  {
+   "mech": "Skipping",
+   "seq_pos": 7,
+   "level": "bard_movable_island2",
+   "set": "advanced_bard_and_water"
+  },
+  {
+   "mech": "Promesst",
+   "seq_pos": 10,
+   "level": "crystal_logistics",
+   "set": "beam_carrying"
+  },
+  {
+   "mech": "Gems",
+   "seq_pos": 10,
+   "level": "crystal_logistics",
+   "set": "beam_carrying"
+  },
+  {
+   "mech": "Elevator",
+   "seq_pos": 10,
+   "level": "crystal_logistics",
+   "set": "beam_carrying"
+  },
+  {
+   "mech": "Dragon",
+   "seq_pos": 10,
+   "level": "crystal_logistics",
+   "set": "beam_carrying"
+  },
+  {
+   "mech": "Lily",
+   "seq_pos": 15,
+   "level": "safety_gloves",
+   "set": "beaming_objects"
+  },
+  {
+   "mech": "Rover",
+   "seq_pos": 50,
+   "level": "help_drop",
+   "set": "beams_and_basic_heroes"
+  },
+  {
+   "mech": "Spawner",
+   "seq_pos": 289,
+   "level": "end2_mirror1",
+   "set": "drafts_arted"
+  },
+  {
+   "mech": "Teleport",
+   "seq_pos": 566,
+   "level": "intro",
+   "set": "drafts_arted"
+  }
+ ],
+ "co_occurrence": [
+  {
+   "a": "Heroes",
+   "b": "Water",
+   "n": 585
+  },
+  {
+   "a": "Heroes",
+   "b": "Rock",
+   "n": 524
+  },
+  {
+   "a": "Rock",
+   "b": "Water",
+   "n": 512
+  },
+  {
+   "a": "Mirror",
+   "b": "Water",
+   "n": 433
+  },
+  {
+   "a": "Heroes",
+   "b": "Mirror",
+   "n": 403
+  },
+  {
+   "a": "Heroes",
+   "b": "Sun",
+   "n": 367
+  },
+  {
+   "a": "Sun",
+   "b": "Water",
+   "n": 366
+  },
+  {
+   "a": "Mirror",
+   "b": "Rock",
+   "n": 361
+  },
+  {
+   "a": "Rock",
+   "b": "Sun",
+   "n": 306
+  },
+  {
+   "a": "Heroes",
+   "b": "Monsters",
+   "n": 303
+  },
+  {
+   "a": "Gems",
+   "b": "Promesst",
+   "n": 282
+  },
+  {
+   "a": "Gems",
+   "b": "Heroes",
+   "n": 277
+  },
+  {
+   "a": "Mirror",
+   "b": "Sun",
+   "n": 263
+  },
+  {
+   "a": "Monsters",
+   "b": "Water",
+   "n": 251
+  },
+  {
+   "a": "Heroes",
+   "b": "Promesst",
+   "n": 248
+  },
+  {
+   "a": "Gems",
+   "b": "Water",
+   "n": 248
+  },
+  {
+   "a": "Heroes",
+   "b": "Tower",
+   "n": 228
+  },
+  {
+   "a": "Gems",
+   "b": "Rock",
+   "n": 217
+  },
+  {
+   "a": "Promesst",
+   "b": "Water",
+   "n": 216
+  },
+  {
+   "a": "Monsters",
+   "b": "Rock",
+   "n": 215
+  },
+  {
+   "a": "Promesst",
+   "b": "Rock",
+   "n": 201
+  },
+  {
+   "a": "Tower",
+   "b": "Water",
+   "n": 195
+  },
+  {
+   "a": "Mirror",
+   "b": "Monsters",
+   "n": 174
+  },
+  {
+   "a": "Monsters",
+   "b": "Sun",
+   "n": 169
+  },
+  {
+   "a": "Gems",
+   "b": "Mirror",
+   "n": 165
+  }
+ ],
+ "set_stats": [
+  {
+   "set": "advanced_bard_and_water",
+   "n": 10,
+   "inst_avg": 1227.2,
+   "inst_max": 2466,
+   "mech_avg": 4.4
+  },
+  {
+   "set": "beam_carrying",
+   "n": 3,
+   "inst_avg": 2329.7,
+   "inst_max": 4628,
+   "mech_avg": 7.67
+  },
+  {
+   "set": "beaming_objects",
+   "n": 9,
+   "inst_avg": 1403.6,
+   "inst_max": 1818,
+   "mech_avg": 5.67
+  },
+  {
+   "set": "beams_and_basic_heroes",
+   "n": 62,
+   "inst_avg": 1095.0,
+   "inst_max": 4170,
+   "mech_avg": 5.18
+  },
+  {
+   "set": "beams_and_mirrors",
+   "n": 39,
+   "inst_avg": 869.6,
+   "inst_max": 2665,
+   "mech_avg": 5.87
+  },
+  {
+   "set": "beams_and_stones",
+   "n": 36,
+   "inst_avg": 834.4,
+   "inst_max": 7118,
+   "mech_avg": 7
+  },
+  {
+   "set": "clones",
+   "n": 10,
+   "inst_avg": 341.9,
+   "inst_max": 587,
+   "mech_avg": 2.9
+  },
+  {
+   "set": "design_illustrations",
+   "n": 23,
+   "inst_avg": 411.2,
+   "inst_max": 1806,
+   "mech_avg": 4.52
+  },
+  {
+   "set": "double_beam_falling",
+   "n": 18,
+   "inst_avg": 1368.4,
+   "inst_max": 3348,
+   "mech_avg": 6.44
+  },
+  {
+   "set": "double_beam_falling_dropdown",
+   "n": 3,
+   "inst_avg": 787.7,
+   "inst_max": 894,
+   "mech_avg": 5.33
+  },
+  {
+   "set": "drafts_arted",
+   "n": 577,
+   "inst_avg": 1013.4,
+   "inst_max": 24695,
+   "mech_avg": 4.75
+  },
+  {
+   "set": "drafts_good_looking",
+   "n": 1,
+   "inst_avg": 129,
+   "inst_max": 129,
+   "mech_avg": 1
+  },
+  {
+   "set": "drafts_story",
+   "n": 22,
+   "inst_avg": 782.1,
+   "inst_max": 1550,
+   "mech_avg": 3.86
+  },
+  {
+   "set": "endgame2",
+   "n": 23,
+   "inst_avg": 1696.2,
+   "inst_max": 5264,
+   "mech_avg": 6.17
+  },
+  {
+   "set": "endgame3",
+   "n": 37,
+   "inst_avg": 1803.8,
+   "inst_max": 4903,
+   "mech_avg": 6.32
+  },
+  {
+   "set": "heroes3",
+   "n": 3,
+   "inst_avg": 657.3,
+   "inst_max": 1008,
+   "mech_avg": 3.67
+  },
+  {
+   "set": "heroes_and_stones",
+   "n": 2,
+   "inst_avg": 609.5,
+   "inst_max": 746,
+   "mech_avg": 6
+  },
+  {
+   "set": "intro_to_3d",
+   "n": 3,
+   "inst_avg": 1570.7,
+   "inst_max": 2057,
+   "mech_avg": 6.67
+  },
+  {
+   "set": "lily_highway_heroes_and_stones",
+   "n": 3,
+   "inst_avg": 223.7,
+   "inst_max": 302,
+   "mech_avg": 4.67
+  },
+  {
+   "set": "lily_highway_mirrors_and_stones",
+   "n": 12,
+   "inst_avg": 830.6,
+   "inst_max": 2107,
+   "mech_avg": 4.92
+  },
+  {
+   "set": "lily_highway_stones_and_promesst",
+   "n": 7,
+   "inst_avg": 606,
+   "inst_max": 908,
+   "mech_avg": 4.57
+  },
+  {
+   "set": "mirrors_in_3d",
+   "n": 1,
+   "inst_avg": 1729,
+   "inst_max": 1729,
+   "mech_avg": 4
+  },
+  {
+   "set": "orange_beam_highway_stones_and_promesst",
+   "n": 1,
+   "inst_avg": 974,
+   "inst_max": 974,
+   "mech_avg": 6
+  },
+  {
+   "set": "orange_beam_highway_worlds_collide",
+   "n": 4,
+   "inst_avg": 1030,
+   "inst_max": 1782,
+   "mech_avg": 7.5
+  },
+  {
+   "set": "overworld",
+   "n": 1,
+   "inst_avg": 205313,
+   "inst_max": 205313,
+   "mech_avg": 16
+  },
+  {
+   "set": "promesst1_and_2",
+   "n": 1,
+   "inst_avg": 2237,
+   "inst_max": 2237,
+   "mech_avg": 9
+  },
+  {
+   "set": "promesst3",
+   "n": 3,
+   "inst_avg": 2482,
+   "inst_max": 4544,
+   "mech_avg": 5.67
+  },
+  {
+   "set": "sky_promesst_misc",
+   "n": 1,
+   "inst_avg": 937,
+   "inst_max": 937,
+   "mech_avg": 6
+  },
+  {
+   "set": "spawners",
+   "n": 9,
+   "inst_avg": 1366.3,
+   "inst_max": 3354,
+   "mech_avg": 6.11
+  },
+  {
+   "set": "underworld_crossroads",
+   "n": 1,
+   "inst_avg": 828,
+   "inst_max": 828,
+   "mech_avg": 3
+  },
+  {
+   "set": "underworld_heroes_and_mirrors",
+   "n": 1,
+   "inst_avg": 2922,
+   "inst_max": 2922,
+   "mech_avg": 5
+  },
+  {
+   "set": "underworld_heroes_and_promesst",
+   "n": 7,
+   "inst_avg": 348.4,
+   "inst_max": 1017,
+   "mech_avg": 3.57
+  },
+  {
+   "set": "underworld_mirrors_and_promesst",
+   "n": 7,
+   "inst_avg": 1499.7,
+   "inst_max": 4520,
+   "mech_avg": 7.71
+  },
+  {
+   "set": "underworld_skipping_and_promesst",
+   "n": 3,
+   "inst_avg": 569.7,
+   "inst_max": 717,
+   "mech_avg": 5.67
+  }
+ ],
+ "towers": [
+  {
+   "section": "ground",
+   "idx": 0,
+   "levels": 12,
+   "normal": 8,
+   "dropdown": 4,
+   "required_solved": 6,
+   "required_total": 8,
+   "required_pct": 75,
+   "glyphs": "SKIPPING | PROMESST",
+   "tid": "83-7084"
+  },
+  {
+   "section": "ground",
+   "idx": 1,
+   "levels": 13,
+   "normal": 11,
+   "dropdown": 2,
+   "required_solved": 8,
+   "required_total": 11,
+   "required_pct": 72,
+   "glyphs": "HEROES | MIRRORS",
+   "tid": "83-7074"
+  },
+  {
+   "section": "ground",
+   "idx": 2,
+   "levels": 11,
+   "normal": 8,
+   "dropdown": 3,
+   "required_solved": 6,
+   "required_total": 8,
+   "required_pct": 75,
+   "glyphs": "MIRRORS | PROMESST",
+   "tid": "110-3954"
+  },
+  {
+   "section": "ground",
+   "idx": 3,
+   "levels": 10,
+   "normal": 10,
+   "dropdown": 0,
+   "required_solved": 7,
+   "required_total": 10,
+   "required_pct": 70,
+   "glyphs": "HEROES | SKIPPING",
+   "tid": "83-7076"
+  },
+  {
+   "section": "ground",
+   "idx": 4,
+   "levels": 14,
+   "normal": 12,
+   "dropdown": 2,
+   "required_solved": 10,
+   "required_total": 12,
+   "required_pct": 83,
+   "glyphs": "HEROES | PROMESST",
+   "tid": "83-7078"
+  },
+  {
+   "section": "ground",
+   "idx": 5,
+   "levels": 11,
+   "normal": 10,
+   "dropdown": 1,
+   "required_solved": 7,
+   "required_total": 10,
+   "required_pct": 70,
+   "glyphs": "MIRRORS | SKIPPING",
+   "tid": "83-7080"
+  },
+  {
+   "section": "upstairs",
+   "idx": 0,
+   "levels": 14,
+   "normal": 14,
+   "dropdown": 0,
+   "required_solved": 12,
+   "required_total": 14,
+   "required_pct": 85,
+   "glyphs": "HEROES | UPSTAIRS",
+   "tid": "110-5121"
+  },
+  {
+   "section": "upstairs",
+   "idx": 1,
+   "levels": 7,
+   "normal": 7,
+   "dropdown": 0,
+   "required_solved": 6,
+   "required_total": 7,
+   "required_pct": 85,
+   "glyphs": "SKIPPING | UPSTAIRS",
+   "tid": "110-5110"
+  },
+  {
+   "section": "upstairs",
+   "idx": 2,
+   "levels": 12,
+   "normal": 12,
+   "dropdown": 0,
+   "required_solved": 10,
+   "required_total": 12,
+   "required_pct": 83,
+   "glyphs": "PROMESST | UPSTAIRS",
+   "tid": "110-5113"
+  },
+  {
+   "section": "upstairs",
+   "idx": 3,
+   "levels": 7,
+   "normal": 7,
+   "dropdown": 0,
+   "required_solved": 6,
+   "required_total": 7,
+   "required_pct": 85,
+   "glyphs": "MIRRORS | UPSTAIRS",
+   "tid": "110-5117"
+  },
+  {
+   "section": "downstairs",
+   "idx": 0,
+   "levels": 8,
+   "normal": 8,
+   "dropdown": 0,
+   "required_solved": 7,
+   "required_total": 8,
+   "required_pct": 87,
+   "glyphs": "HEROES | MIRRORS | DOWNSTAIRS",
+   "tid": "110-5211"
+  },
+  {
+   "section": "downstairs",
+   "idx": 1,
+   "levels": 8,
+   "normal": 8,
+   "dropdown": 0,
+   "required_solved": 7,
+   "required_total": 8,
+   "required_pct": 87,
+   "glyphs": "MIRRORS | PROMESST | DOWNSTAIRS",
+   "tid": "110-29812"
+  },
+  {
+   "section": "downstairs",
+   "idx": 2,
+   "levels": 12,
+   "normal": 12,
+   "dropdown": 0,
+   "required_solved": 10,
+   "required_total": 12,
+   "required_pct": 83,
+   "glyphs": "SKIPPING | PROMESST | DOWNSTAIRS",
+   "tid": "110-5184"
+  },
+  {
+   "section": "downstairs",
+   "idx": 3,
+   "levels": 9,
+   "normal": 9,
+   "dropdown": 0,
+   "required_solved": 8,
+   "required_total": 9,
+   "required_pct": 88,
+   "glyphs": "HEROES | PROMESST | DOWNSTAIRS",
+   "tid": "110-5226"
+  },
+  {
+   "section": "downstairs",
+   "idx": 4,
+   "levels": 6,
+   "normal": 6,
+   "dropdown": 0,
+   "required_solved": 5,
+   "required_total": 6,
+   "required_pct": 83,
+   "glyphs": "HEROES | SKIPPING | DOWNSTAIRS",
+   "tid": "110-29827"
+  },
+  {
+   "section": "downstairs",
+   "idx": 5,
+   "levels": 7,
+   "normal": 7,
+   "dropdown": 0,
+   "required_solved": 6,
+   "required_total": 7,
+   "required_pct": 85,
+   "glyphs": "MIRRORS | SKIPPING | DOWNSTAIRS",
+   "tid": "110-5194"
+  }
+ ]
+}

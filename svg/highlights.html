@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<title>沉星之序 OSS-PuzzleWiki — 精选关卡俯视图</title>
+<style>
+body{background:#0d1117;color:#c9d1d9;font-family:"Microsoft YaHei",sans-serif;margin:2em;max-width:1000px}
+h1{color:#ffd54a} h2{color:#7ee787;margin-top:2.5em}
+object{width:100%;height:900px;border:1px solid #30363d;border-radius:6px;background:#0d1117}
+.note{color:#8b949e} a{color:#58a6ff}
+code{background:#161b22;padding:2px 6px;border-radius:4px}
+</style>
+</head>
+<body>
+<h1>Order of the Sinking Star 沉星之序 — 关卡俯视图集</h1>
+<p class="note">逆向自游戏 <code>.entities</code> 关卡数据（121 万实例的坐标/包围盒）。俯视图 = x/z 平面，y 为高度（悬停可见）。
+图例：<span style="color:#31506e">■</span> 岛面/地板 ｜ <span style="color:#a89880">■</span> 岩石/墙体 ｜ <span style="color:#ffd54a">●</span> Sun ｜ <span style="color:#c060ff">◆</span> Tower ｜ <span style="color:#35e0ff">○</span> 传送门 ｜ <span style="color:#fff">●</span> Guy/主角
+全量 974 关：<a href="index.html">index.html</a></p>
+
+<h2>overworld — 中央枢纽世界（205,313 实例）</h2>
+<p class="note">游戏"选关地图"本体：主岛 + 各塔入口岛链。金色 Sun 是主线节点，紫色菱形是 16 座塔。</p>
+<object data="overworld.svg" type="image/svg+xml"></object>
+
+<h2>intro — 新手教学关（16,315 实例）</h2>
+<p class="note">横向长岛，沙色墙体围出单向教学走廊。</p>
+<object data="intro.svg" type="image/svg+xml"></object>
+
+<h2>magnitudes_v3 — 最大谜题关（24,695 实例）</h2>
+<p class="note">超长横向关卡，多段谜题房间链式串联。</p>
+<object data="magnitudes_v3.svg" type="image/svg+xml"></object>
+
+<h2>end1 — 终章（14,253 实例）</h2>
+<p class="note">放射环形结构：中心圆核 + 塔 + 外伸走廊。</p>
+<object data="end1.svg" type="image/svg+xml"></object>
+
+<h2>zachtronics — 彩蛋关</h2>
+<p class="note">左右两大簇并排布局，致敬 Zachtronics。</p>
+<object data="zachtronics.svg" type="image/svg+xml"></object>
+
+<p class="note">工具链与格式文档见仓库 README。数据来源：静态分析（自有副本），非官方。</p>
+</body>
+</html>

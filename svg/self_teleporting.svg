@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1100" font-family="sans-serif">
+<rect width="1100" height="1100" fill="#0d1117"/>
+<text x="14" y="26" fill="#e6edf3" font-size="20" font-weight="bold">self_teleporting</text>
+<text x="14" y="48" fill="#8b949e" font-size="13">top-down (x/z) | PARTIAL | insts=437 | stride=1</text>
+<line x1="-87.1" y1="60" x2="-87.1" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="76.3" y1="60" x2="76.3" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="239.8" y1="60" x2="239.8" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="-13.0" x2="1040" y2="-13.0" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="150.5" x2="1040" y2="150.5" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="314.0" x2="1040" y2="314.0" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="477.5" x2="1040" y2="477.5" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="640.9" x2="1040" y2="640.9" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="804.4" x2="1040" y2="804.4" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="967.9" x2="1040" y2="967.9" stroke="#21262d" stroke-width="1"/>
+<rect x="123.54" y="311.15" width="1.20" height="1.20" fill="#31506e" fill-opacity="0.55"><title>floor y=2.18</title></rect>
+<rect x="170.99" y="311.50" width="1.20" height="1.20" fill="#31506e" fill-opacity="0.55"><title>floor y=4.05</title></rect>
+<rect x="153.40" y="311.50" width="1.20" height="1.20" fill="#31506e" fill-opacity="0.55"><title>floor y=4.02</title></rect>
+<rect x="185.97" y="311.25" width="1.20" height="1.20" fill="#31506e" fill-opacity="0.55"><title>floor y=2.06</title></rect>
+<rect x="184.26" y="312.22" width="1.20" height="1.20" fill="#31506e" fill-opacity="0.55"><title>floor y=4.83</title></rect>
+<rect x="201.80" y="311.50" width="1.20" height="1.20" fill="#31506e" fill-opacity="0.55"><title>floor y=5.99</title></rect>
+<rect x="107.07" y="308.54" width="1.20" height="1.20" fill="#31506e" fill-opacity="0.55"><title>floor y=5.97</title></rect>
+<rect x="141.95" y="293.94" width="1.97" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.00</title></rect>
+<rect x="266.83" y="291.88" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=10.00</title></rect>
+<rect x="263.47" y="287.30" width="1.20" height="1.26" fill="#4d7099" fill-opacity="0.9"><title>other y=11.00</title></rect>
+<rect x="79.57" y="315.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=2.10</title></rect>
+<rect x="270.21" y="83.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.45</title></rect>
+<rect x="275.14" y="74.45" width="1.20" height="1.26" fill="#4d7099" fill-opacity="0.9"><title>other y=5.49</title></rect>
+<rect x="251.22" y="83.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=7.44</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=4.68</title></rect>
+<rect x="75.59" y="311.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=4.93</title></rect>
+<rect x="92.18" y="290.64" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=10.01</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=8.26</title></rect>
+<rect x="299.24" y="77.35" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=1.43</title></rect>
+<rect x="78.59" y="306.35" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=3.80</title></rect>
+<rect x="279.16" y="77.35" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=5.83</title></rect>
+<rect x="83.29" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=1.44</title></rect>
+<rect x="258.35" y="1036.36" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=5.91</title></rect>
+<rect x="129.26" y="303.45" width="1.20" height="1.26" fill="#4d7099" fill-opacity="0.9"><title>other y=3.41</title></rect>
+<rect x="249.72" y="83.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=0.52</title></rect>
+<rect x="279.51" y="83.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=4.51</title></rect>
+<rect x="275.20" y="80.81" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.48</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=7.85</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.69</title></rect>
+<rect x="62.41" y="290.02" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=1.36</title></rect>
+<rect x="105.37" y="77.35" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=2.57</title></rect>
+<rect x="75.59" y="311.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=7.33</title></rect>
+<rect x="313.31" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=1.69</title></rect>
+<rect x="125.79" y="298.21" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=11.51</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.60</title></rect>
+<rect x="124.79" y="312.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.88</title></rect>
+<rect x="312.35" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=0.55</title></rect>
+<rect x="264.40" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.95</title></rect>
+<rect x="128.93" y="74.16" width="1.20" height="1.26" fill="#4d7099" fill-opacity="0.9"><title>other y=0.96</title></rect>
+<rect x="75.59" y="311.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=0.03</title></rect>
+<rect x="254.57" y="74.45" width="1.20" height="1.26" fill="#4d7099" fill-opacity="0.9"><title>other y=6.48</title></rect>
+<rect x="283.17" y="289.75" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=8.34</title></rect>
+<rect x="290.02" y="76.67" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.56</title></rect>
+<rect x="148.42" y="62.38" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=0.57</title></rect>
+<rect x="185.45" y="309.81" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.51</title></rect>
+<rect x="79.57" y="315.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=2.88</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.63</title></rect>
+<rect x="82.32" y="74.45" width="1.20" height="1.26" fill="#4d7099" fill-opacity="0.9"><title>other y=1.57</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=7.35</title></rect>
+<rect x="259.45" y="77.35" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=4.50</title></rect>
+<rect x="288.09" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=0.41</title></rect>
+<rect x="148.04" y="83.62" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=11.36</title></rect>
+<rect x="270.96" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.63</title></rect>
+<rect x="79.57" y="315.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=10.13</title></rect>
+<rect x="79.57" y="315.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=5.71</title></rect>
+<rect x="75.59" y="311.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=6.58</title></rect>
+<rect x="166.25" y="292.25" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=11.03</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=3.31</title></rect>
+<rect x="117.30" y="290.17" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=1.38</title></rect>
+<rect x="288.83" y="83.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=7.44</title></rect>
+<rect x="267.56" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=5.25</title></rect>
+<rect x="102.03" y="77.35" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=1.48</title></rect>
+<rect x="226.25" y="77.35" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.62</title></rect>
+<rect x="81.56" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=1.81</title></rect>
+<rect x="189.05" y="309.81" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=3.11</title></rect>
+<rect x="78.07" y="316.35" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.09</title></rect>
+<rect x="253.17" y="74.45" width="1.20" height="1.26" fill="#4d7099" fill-opacity="0.9"><title>other y=6.70</title></rect>
+<rect x="75.59" y="311.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=5.68</title></rect>
+<rect x="167.66" y="290.57" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=0.32</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=6.45</title></rect>
+<rect x="126.20" y="83.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=2.34</title></rect>
+<rect x="248.38" y="77.35" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=7.59</title></rect>
+<rect x="97.17" y="290.39" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=1.48</title></rect>
+<rect x="82.59" y="83.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=1.47</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=0.38</title></rect>
+<rect x="293.16" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=0.42</title></rect>
+<rect x="63.35" y="290.35" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=7.58</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=2.45</title></rect>
+<rect x="134.53" y="306.80" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=4.50</title></rect>
+<rect x="145.97" y="306.48" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=3.71</title></rect>
+<rect x="140.33" y="313.47" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.33</title></rect>
+<rect x="134.50" y="313.47" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.56</title></rect>
+<rect x="132.77" y="313.47" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.10</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=4.47</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=3.52</title></rect>
+<rect x="132.15" y="310.56" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=4.29</title></rect>
+<rect x="196.46" y="313.27" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.37</title></rect>
+<rect x="183.27" y="313.27" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.40</title></rect>
+<rect x="194.10" y="313.27" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.23</title></rect>
+<rect x="184.18" y="306.70" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=6.24</title></rect>
+<rect x="135.43" y="313.11" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=3.41</title></rect>
+<rect x="111.90" y="306.54" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=3.38</title></rect>
+<rect x="124.43" y="289.75" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=1.64</title></rect>
+<rect x="127.98" y="306.35" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=3.88</title></rect>
+<rect x="97.64" y="79.03" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=3.33</title></rect>
+<rect x="144.20" y="565.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.42</title></rect>
+<rect x="246.39" y="418.59" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=8.00</title></rect>
+<rect x="98.17" y="176.42" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=9.70</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=9.19</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.38</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=4.54</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=4.44</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.27</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.48</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.37</title></rect>
+<rect x="70.49" y="308.04" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.42</title></rect>
+<rect x="117.38" y="313.37" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=3.49</title></rect>
+<rect x="158.84" y="313.27" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.38</title></rect>
+<rect x="163.91" y="313.27" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.40</title></rect>
+<rect x="191.76" y="388.30" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=7.00</title></rect>
+<rect x="75.59" y="311.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=2.49</title></rect>
+<rect x="75.59" y="311.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=2.35</title></rect>
+<rect x="148.29" y="354.39" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.25</title></rect>
+<rect x="203.26" y="63.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=2.07</title></rect>
+<rect x="150.53" y="323.88" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=4.66</title></rect>
+<rect x="202.29" y="296.93" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=1.76</title></rect>
+<rect x="279.55" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=0.38</title></rect>
+<rect x="279.90" y="79.03" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=0.14</title></rect>
+<rect x="121.13" y="80.77" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.72</title></rect>
+<rect x="266.74" y="70.44" width="1.96" height="1.75" fill="#4d7099" fill-opacity="0.9"><title>other y=5.61</title></rect>
+<rect x="75.59" y="311.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=5.61</title></rect>
+<rect x="130.65" y="290.57" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=1.49</title></rect>
+<rect x="78.07" y="316.35" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=8.36</title></rect>
+<rect x="70.84" y="288.22" width="1.88" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=2.66</title></rect>
+<rect x="134.47" y="83.65" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=0.61</title></rect>
+<rect x="118.64" y="83.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=2.11</title></rect>
+<rect x="265.06" y="80.81" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=0.39</title></rect>
+<rect x="311.52" y="287.67" width="1.20" height="1.26" fill="#4d7099" fill-opacity="0.9"><title>other y=4.51</title></rect>
+<rect x="282.25" y="81.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=0.64</title></rect>
+<rect x="76.26" y="311.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=7.73</title></rect>
+<rect x="160.55" y="308.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.50</title></rect>
+<rect x="201.43" y="308.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.00</title></rect>
+<rect x="119.68" y="308.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.00</title></rect>
+<rect x="136.03" y="308.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.00</title></rect>
+<rect x="119.68" y="308.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=4.00</title></rect>
+<rect x="266.83" y="308.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=-1.50</title></rect>
+<rect x="168.73" y="308.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.00</title></rect>
+<rect x="132.09" y="304.87" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.00</title></rect>
+<rect x="86.98" y="308.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=6.00</title></rect>
+<rect x="142.15" y="596.56" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=-9.58</title></rect>
+<rect x="152.38" y="504.43" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=-6.00</title></rect>
+<rect x="54.28" y="308.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=0.00</title></rect>
+<rect x="266.83" y="308.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=11.00</title></rect>
+<circle cx="229.7" cy="68.6" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_M</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="159.4" cy="100.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FK</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="135.0" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_M</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="224.9" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="110.4" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_G</title></circle>
+<circle cx="286.8" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="208.5" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>Indo_Dock_Debris_C</title></circle>
+<circle cx="144.1" cy="84.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_StoneInsert_Shard_B</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="306.6" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_StoneInsert_Pebble_G</title></circle>
+<circle cx="208.5" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_K</title></circle>
+<circle cx="309.1" cy="84.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="110.4" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_M</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_1M_A</title></circle>
+<circle cx="224.9" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FK</title></circle>
+<circle cx="243.3" cy="85.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_StoneInsert_Pebble_G</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="159.5" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="268.6" cy="84.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="228.7" cy="68.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>Nebula_Star_Cluster_A</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="159.5" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="255.0" cy="84.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="110.4" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="289.2" cy="68.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_G</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="216.7" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_1x1M_B</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_1M_A</title></circle>
+<circle cx="175.8" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_K</title></circle>
+<circle cx="306.6" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="192.2" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="265.8" cy="68.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_M</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_1x1M_B</title></circle>
+<circle cx="175.8" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="242.9" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_C</title></circle>
+<circle cx="265.6" cy="84.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="321.1" cy="84.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="159.5" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_I</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_1x1M_B</title></circle>
+<circle cx="192.2" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="110.4" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_I</title></circle>
+<circle cx="244.1" cy="84.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="133.5" cy="68.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_M</title></circle>
+<circle cx="208.5" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_StoneInsert_Pebble_G</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="110.4" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="284.3" cy="68.6" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="269.9" cy="84.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>PIRA_Ship_Planks_G</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="192.2" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_M</title></circle>
+<circle cx="224.9" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="269.2" cy="68.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_C</title></circle>
+<circle cx="298.1" cy="84.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FK</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="159.5" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="89.7" cy="68.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_K</title></circle>
+<circle cx="296.6" cy="84.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="159.5" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_StoneInsert_Pebble_B</title></circle>
+<circle cx="184.0" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_E</title></circle>
+<circle cx="256.5" cy="84.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FC</title></circle>
+<circle cx="306.6" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_F</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_1M_A</title></circle>
+<circle cx="208.5" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="141.5" cy="67.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_I</title></circle>
+<circle cx="238.9" cy="84.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_K</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="167.7" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="239.7" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="81.5" cy="317.2" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_THAI_Plat_A_2m</title></circle>
+<circle cx="142.2" cy="85.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="233.1" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>PIRA_Ship_Planks_G</title></circle>
+<circle cx="236.0" cy="68.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="79.9" cy="317.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>Indo_Dock_1x1_AC</title></circle>
+<circle cx="144.2" cy="83.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_N</title></circle>
+<circle cx="184.0" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="167.1" cy="100.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="208.5" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_F</title></circle>
+<circle cx="239.3" cy="85.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="306.5" cy="68.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="110.4" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_F</title></circle>
+<circle cx="113.1" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="175.8" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_N</title></circle>
+<circle cx="143.4" cy="84.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="99.0" cy="84.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="159.5" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="241.8" cy="68.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_E</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="257.6" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_K</title></circle>
+<circle cx="295.9" cy="84.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="159.2" cy="100.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FK</title></circle>
+<circle cx="248.6" cy="84.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="110.4" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_F</title></circle>
+<circle cx="275.1" cy="85.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_C</title></circle>
+<circle cx="250.5" cy="84.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="92.5" cy="68.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_G</title></circle>
+<circle cx="260.9" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="241.7" cy="84.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_StoneInsert_Pebble_A</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="233.1" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="294.3" cy="84.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="149.1" cy="67.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="140.8" cy="68.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_E</title></circle>
+<circle cx="95.1" cy="85.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_N</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="151.3" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_F</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="208.5" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_N</title></circle>
+<circle cx="245.3" cy="84.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_I</title></circle>
+<circle cx="290.0" cy="84.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_1M_A</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_1x1M_B</title></circle>
+<circle cx="78.3" cy="316.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_3x3M_Radial_A</title></circle>
+<circle cx="208.5" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Grassy_Firm_B</title></circle>
+<circle cx="306.6" cy="84.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="257.6" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="112.5" cy="84.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="276.5" cy="85.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_K</title></circle>
+<circle cx="305.5" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_MTN_Cave_Debris_C</title></circle>
+<circle cx="290.8" cy="68.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FC</title></circle>
+<circle cx="110.4" cy="60.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_C</title></circle>
+<circle cx="281.0" cy="84.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FC</title></circle>
+<circle cx="236.0" cy="68.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_N</title></circle>
+<circle cx="125.3" cy="85.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_G</title></circle>
+<circle cx="240.0" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FK</title></circle>
+<circle cx="225.0" cy="313.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_E</title></circle>
+<circle cx="205.8" cy="313.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="166.8" cy="313.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>PIRA_Ship_Planks_G</title></circle>
+<circle cx="221.1" cy="313.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_E</title></circle>
+<circle cx="223.6" cy="314.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Grassy_Firm_B</title></circle>
+<circle cx="205.5" cy="314.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_E</title></circle>
+<circle cx="191.3" cy="314.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_G</title></circle>
+<circle cx="179.7" cy="313.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="175.8" cy="76.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FK</title></circle>
+<circle cx="203.6" cy="314.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="161.2" cy="313.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_StoneInsert_Shard_B</title></circle>
+<circle cx="178.9" cy="313.4" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_M</title></circle>
+<circle cx="164.7" cy="313.2" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_StoneInsert_Shard_B</title></circle>
+<circle cx="162.3" cy="314.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Grassy_Firm_B</title></circle>
+<circle cx="198.6" cy="314.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_E</title></circle>
+<circle cx="127.4" cy="85.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Grassy_Firm_B</title></circle>
+<circle cx="151.5" cy="314.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FB</title></circle>
+<circle cx="112.1" cy="313.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_I</title></circle>
+<circle cx="76.3" cy="313.6" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_E</title></circle>
+<circle cx="77.8" cy="314.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_F</title></circle>
+<circle cx="83.2" cy="314.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_I</title></circle>
+<circle cx="91.6" cy="313.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_F</title></circle>
+<circle cx="76.3" cy="313.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>STAT_Lotus_K</title></circle>
+<circle cx="79.0" cy="313.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="104.6" cy="313.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_C</title></circle>
+<circle cx="85.1" cy="313.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_E</title></circle>
+<circle cx="91.1" cy="313.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_F</title></circle>
+<circle cx="191.3" cy="313.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_C</title></circle>
+<circle cx="199.3" cy="313.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_C</title></circle>
+<circle cx="215.3" cy="313.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_F</title></circle>
+<circle cx="156.3" cy="313.9" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_E</title></circle>
+<circle cx="144.5" cy="314.3" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_M</title></circle>
+<circle cx="254.7" cy="84.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Grassy_Firm_B</title></circle>
+<circle cx="167.3" cy="314.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_C</title></circle>
+<circle cx="133.9" cy="313.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_C</title></circle>
+<circle cx="100.7" cy="313.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_M</title></circle>
+<circle cx="106.8" cy="313.2" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_F</title></circle>
+<circle cx="91.7" cy="313.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Grassy_Firm_B</title></circle>
+<circle cx="122.5" cy="314.1" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_C</title></circle>
+<circle cx="101.0" cy="313.8" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Rocky_M</title></circle>
+<circle cx="91.9" cy="313.2" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_StoneInsert_Pebble_E</title></circle>
+<circle cx="110.0" cy="312.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ISLE_Core_D</title></circle>
+<circle cx="85.6" cy="320.6" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="85.6" cy="320.6" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="81.9" cy="319.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Detail_Edge_B</title></circle>
+<circle cx="272.6" cy="314.0" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>TER_Grass_FC</title></circle>
+<circle cx="150.4" cy="314.1" r="6" fill="#ffd54a" stroke="#a87b00"><title>editorUI_sun</title></circle>
+<text x="158.4" y="318.1" fill="#ffd54a" font-size="11">SUN</text>
+<circle cx="98.3" cy="84.5" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>editorUI_decal</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<circle cx="77.6" cy="316.7" r="5" fill="none" stroke="#35e0ff" stroke-width="2"><title>ARCH_TECH_Block_Border_A_Corner_C</title></circle>
+<rect x="60" y="1057" width="14" height="10" fill="#31506e"/><text x="80" y="1066" fill="#8b949e" font-size="12">island/floor</text>
+<rect x="190" y="1057" width="14" height="10" fill="#a89880"/><text x="210" y="1066" fill="#8b949e" font-size="12">rock/wall</text>
+<circle cx="310" cy="1062" r="5" fill="#ffd54a"/><text x="320" y="1066" fill="#8b949e" font-size="12">Sun</text>
+<rect x="380" y="1058" width="8" height="8" fill="#c060ff" transform="rotate(45 384 1062)"/><text x="400" y="1066" fill="#8b949e" font-size="12">Tower</text>
+<rect x="960" y="1060" width="163.5" height="4" fill="#e6edf3"/><text x="960" y="1054" fill="#e6edf3" font-size="12">10 units</text>
+</svg>

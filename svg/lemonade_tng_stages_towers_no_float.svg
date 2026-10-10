@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1100" font-family="sans-serif">
+<rect width="1100" height="1100" fill="#0d1117"/>
+<text x="14" y="26" fill="#e6edf3" font-size="20" font-weight="bold">lemonade_tng_stages_towers_no_float</text>
+<text x="14" y="48" fill="#8b949e" font-size="13">top-down (x/z) | OK | insts=882 | stride=1</text>
+<line x1="37.9" y1="60" x2="37.9" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="89.7" y1="60" x2="89.7" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="141.5" y1="60" x2="141.5" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="193.4" y1="60" x2="193.4" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="245.2" y1="60" x2="245.2" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="297.0" y1="60" x2="297.0" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="348.9" y1="60" x2="348.9" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="400.7" y1="60" x2="400.7" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="452.5" y1="60" x2="452.5" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="504.4" y1="60" x2="504.4" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="556.2" y1="60" x2="556.2" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="608.1" y1="60" x2="608.1" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="659.9" y1="60" x2="659.9" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="711.7" y1="60" x2="711.7" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="763.6" y1="60" x2="763.6" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="815.4" y1="60" x2="815.4" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="867.2" y1="60" x2="867.2" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="919.1" y1="60" x2="919.1" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="970.9" y1="60" x2="970.9" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="1022.7" y1="60" x2="1022.7" y2="1040" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="9.3" x2="1040" y2="9.3" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="61.1" x2="1040" y2="61.1" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="112.9" x2="1040" y2="112.9" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="164.8" x2="1040" y2="164.8" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="216.6" x2="1040" y2="216.6" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="268.5" x2="1040" y2="268.5" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="320.3" x2="1040" y2="320.3" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="372.1" x2="1040" y2="372.1" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="424.0" x2="1040" y2="424.0" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="475.8" x2="1040" y2="475.8" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="527.6" x2="1040" y2="527.6" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="579.5" x2="1040" y2="579.5" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="631.3" x2="1040" y2="631.3" stroke="#21262d" stroke-width="1"/>
+<line x1="60" y1="683.1" x2="1040" y2="683.1" stroke="#21262d" stroke-width="1"/>
+<rect x="399.50" y="526.33" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.00</title></rect>
+<rect x="466.37" y="624.41" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=1.75</title></rect>
+<rect x="480.39" y="581.39" width="1.20" height="1.58" fill="#4d7099" fill-opacity="0.9"><title>other y=13.41</title></rect>
+<rect x="492.44" y="557.39" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.95</title></rect>
+<rect x="493.49" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.25</title></rect>
+<rect x="491.94" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.25</title></rect>
+<rect x="493.47" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.95</title></rect>
+<rect x="491.94" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.66</title></rect>
+<rect x="490.43" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.66</title></rect>
+<rect x="493.48" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.65</title></rect>
+<rect x="490.51" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.95</title></rect>
+<rect x="491.94" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.95</title></rect>
+<rect x="490.45" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.24</title></rect>
+<rect x="488.31" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.25</title></rect>
+<rect x="486.76" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.25</title></rect>
+<rect x="488.29" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.95</title></rect>
+<rect x="486.76" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.66</title></rect>
+<rect x="485.24" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.66</title></rect>
+<rect x="488.30" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.65</title></rect>
+<rect x="485.32" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.95</title></rect>
+<rect x="486.76" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.95</title></rect>
+<rect x="485.26" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.24</title></rect>
+<rect x="487.25" y="557.39" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.95</title></rect>
+<rect x="493.75" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.29</title></rect>
+<rect x="482.35" y="557.44" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=17.00</title></rect>
+<rect x="492.20" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.29</title></rect>
+<rect x="493.73" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.99</title></rect>
+<rect x="492.20" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.70</title></rect>
+<rect x="490.68" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.70</title></rect>
+<rect x="493.74" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.69</title></rect>
+<rect x="490.76" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.99</title></rect>
+<rect x="492.20" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.99</title></rect>
+<rect x="490.70" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.28</title></rect>
+<rect x="492.69" y="557.39" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.99</title></rect>
+<rect x="493.66" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.28</title></rect>
+<rect x="482.35" y="557.44" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=18.00</title></rect>
+<rect x="492.11" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.28</title></rect>
+<rect x="493.64" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.97</title></rect>
+<rect x="492.11" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.69</title></rect>
+<rect x="490.59" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.69</title></rect>
+<rect x="493.65" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.68</title></rect>
+<rect x="490.68" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.98</title></rect>
+<rect x="492.11" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.97</title></rect>
+<rect x="490.62" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.27</title></rect>
+<rect x="492.18" y="557.10" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.98</title></rect>
+<rect x="482.35" y="557.44" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="394.99" y="452.09" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=30.24</title></rect>
+<rect x="352.79" y="452.09" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.42</title></rect>
+<rect x="483.83" y="452.09" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=43.99</title></rect>
+<rect x="530.29" y="452.09" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.90</title></rect>
+<rect x="438.90" y="452.09" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=20.79</title></rect>
+<rect x="438.10" y="551.63" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.50</title></rect>
+<rect x="454.60" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.50</title></rect>
+<rect x="454.60" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.50</title></rect>
+<rect x="454.60" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.50</title></rect>
+<rect x="454.69" y="551.97" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.50</title></rect>
+<rect x="481.83" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.00</title></rect>
+<rect x="429.99" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.50</title></rect>
+<rect x="426.11" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.50</title></rect>
+<rect x="463.69" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.50</title></rect>
+<rect x="448.14" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.75</title></rect>
+<rect x="433.88" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.50</title></rect>
+<rect x="435.18" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.50</title></rect>
+<rect x="448.14" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.50</title></rect>
+<rect x="453.32" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.75</title></rect>
+<rect x="468.80" y="552.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.50</title></rect>
+<rect x="468.89" y="557.15" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.50</title></rect>
+<rect x="481.83" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.00</title></rect>
+<rect x="468.80" y="546.55" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.50</title></rect>
+<rect x="468.80" y="546.55" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.50</title></rect>
+<rect x="468.80" y="546.55" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.50</title></rect>
+<rect x="457.21" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.50</title></rect>
+<rect x="468.87" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=14.50</title></rect>
+<rect x="463.69" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.75</title></rect>
+<rect x="432.59" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.75</title></rect>
+<rect x="444.08" y="551.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.50</title></rect>
+<rect x="489.61" y="546.55" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.51</title></rect>
+<rect x="484.52" y="546.78" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=13.51</title></rect>
+<rect x="481.92" y="557.15" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.00</title></rect>
+<rect x="481.83" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.00</title></rect>
+<rect x="481.92" y="557.15" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.00</title></rect>
+<rect x="481.92" y="557.15" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.00</title></rect>
+<rect x="400.63" y="527.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=25.00</title></rect>
+<rect x="400.63" y="527.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.46</title></rect>
+<rect x="468.76" y="556.70" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.56</title></rect>
+<rect x="400.63" y="527.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.50</title></rect>
+<rect x="400.63" y="527.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.50</title></rect>
+<rect x="400.63" y="527.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.50</title></rect>
+<rect x="400.63" y="527.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=25.50</title></rect>
+<rect x="400.63" y="527.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.50</title></rect>
+<rect x="400.63" y="527.72" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.50</title></rect>
+<rect x="468.66" y="556.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.50</title></rect>
+<rect x="608.57" y="358.17" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=60.69</title></rect>
+<rect x="559.19" y="437.57" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=52.07</title></rect>
+<rect x="560.49" y="438.48" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=51.95</title></rect>
+<rect x="555.08" y="437.21" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=51.11</title></rect>
+<rect x="606.23" y="370.78" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=59.72</title></rect>
+<rect x="600.88" y="359.24" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=60.36</title></rect>
+<rect x="343.86" y="251.75" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=64.36</title></rect>
+<rect x="589.58" y="360.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=61.04</title></rect>
+<rect x="437.26" y="445.62" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=50.13</title></rect>
+<rect x="607.00" y="257.34" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=45.94</title></rect>
+<rect x="600.14" y="352.45" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=60.31</title></rect>
+<rect x="481.50" y="58.19" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=30.05</title></rect>
+<rect x="594.51" y="356.40" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=58.29</title></rect>
+<rect x="562.41" y="435.54" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=51.27</title></rect>
+<rect x="305.37" y="211.05" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=33.87</title></rect>
+<rect x="552.66" y="443.89" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=51.49</title></rect>
+<rect x="599.13" y="367.56" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=62.94</title></rect>
+<rect x="556.05" y="436.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=50.57</title></rect>
+<rect x="607.30" y="355.06" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=61.58</title></rect>
+<rect x="608.68" y="333.15" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=58.94</title></rect>
+<rect x="716.49" y="432.46" width="1.20" height="1.58" fill="#4d7099" fill-opacity="0.9"><title>other y=41.36</title></rect>
+<rect x="322.72" y="420.85" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.39</title></rect>
+<rect x="327.84" y="421.03" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.99</title></rect>
+<rect x="322.37" y="418.99" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.91</title></rect>
+<rect x="471.46" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.00</title></rect>
+<rect x="322.62" y="415.35" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=41.28</title></rect>
+<rect x="315.58" y="423.34" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.95</title></rect>
+<rect x="327.18" y="422.67" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=45.43</title></rect>
+<rect x="320.26" y="428.15" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=45.61</title></rect>
+<rect x="315.87" y="406.01" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=37.41</title></rect>
+<rect x="331.67" y="426.95" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=44.26</title></rect>
+<rect x="322.86" y="425.17" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.94</title></rect>
+<rect x="316.10" y="431.24" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.31</title></rect>
+<rect x="311.52" y="403.64" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.45</title></rect>
+<rect x="316.68" y="426.18" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=43.44</title></rect>
+<rect x="471.46" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.00</title></rect>
+<rect x="324.08" y="411.12" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=41.16</title></rect>
+<rect x="330.29" y="421.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=45.37</title></rect>
+<rect x="326.28" y="425.95" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=44.77</title></rect>
+<rect x="308.86" y="429.46" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.34</title></rect>
+<rect x="324.78" y="414.44" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=42.77</title></rect>
+<rect x="313.50" y="425.81" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.43</title></rect>
+<rect x="360.84" y="399.57" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.15</title></rect>
+<rect x="400.06" y="527.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=45.10</title></rect>
+<rect x="476.65" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.00</title></rect>
+<rect x="331.35" y="429.06" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=43.84</title></rect>
+<rect x="335.80" y="402.69" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=39.61</title></rect>
+<rect x="326.12" y="427.73" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.25</title></rect>
+<rect x="315.29" y="411.16" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=41.72</title></rect>
+<rect x="309.11" y="428.78" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.22</title></rect>
+<rect x="341.73" y="409.44" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=39.47</title></rect>
+<rect x="313.37" y="418.24" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.64</title></rect>
+<rect x="316.26" y="430.54" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=44.20</title></rect>
+<rect x="332.33" y="423.25" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=44.95</title></rect>
+<rect x="326.94" y="420.06" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=45.34</title></rect>
+<rect x="476.59" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.98</title></rect>
+<rect x="328.95" y="428.56" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.84</title></rect>
+<rect x="317.19" y="426.59" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.37</title></rect>
+<rect x="320.16" y="403.01" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=37.84</title></rect>
+<rect x="310.02" y="424.90" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.44</title></rect>
+<rect x="340.79" y="407.89" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=40.26</title></rect>
+<rect x="327.82" y="421.12" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.97</title></rect>
+<rect x="330.43" y="397.63" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=38.89</title></rect>
+<rect x="312.03" y="429.30" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.20</title></rect>
+<rect x="481.83" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.00</title></rect>
+<rect x="337.65" y="394.99" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=37.68</title></rect>
+<rect x="314.16" y="418.83" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=42.88</title></rect>
+<rect x="326.54" y="426.04" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.95</title></rect>
+<rect x="326.55" y="425.99" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.96</title></rect>
+<rect x="312.01" y="405.06" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=39.73</title></rect>
+<rect x="400.06" y="527.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.99</title></rect>
+<rect x="481.83" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.00</title></rect>
+<rect x="329.36" y="424.84" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=44.49</title></rect>
+<rect x="339.93" y="397.63" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=40.00</title></rect>
+<rect x="312.63" y="430.34" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=45.88</title></rect>
+<rect x="325.59" y="407.71" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=37.18</title></rect>
+<rect x="327.19" y="423.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.47</title></rect>
+<rect x="325.51" y="414.80" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=40.76</title></rect>
+<rect x="320.23" y="428.14" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=45.61</title></rect>
+<rect x="316.05" y="419.85" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=42.90</title></rect>
+<rect x="324.18" y="420.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=44.99</title></rect>
+<rect x="319.20" y="424.25" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=43.95</title></rect>
+<rect x="337.84" y="401.84" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=41.31</title></rect>
+<rect x="309.96" y="424.81" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.41</title></rect>
+<rect x="312.63" y="430.34" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=45.88</title></rect>
+<rect x="322.84" y="406.24" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.01</title></rect>
+<rect x="328.51" y="426.37" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.13</title></rect>
+<rect x="310.75" y="416.95" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=42.82</title></rect>
+<rect x="323.43" y="417.12" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=40.84</title></rect>
+<rect x="340.31" y="405.35" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=41.24</title></rect>
+<rect x="318.53" y="438.12" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.60</title></rect>
+<rect x="340.62" y="429.77" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=25.10</title></rect>
+<rect x="342.52" y="431.36" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.15</title></rect>
+<rect x="341.59" y="426.58" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.82</title></rect>
+<rect x="356.18" y="405.18" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.86</title></rect>
+<rect x="321.53" y="385.41" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.21</title></rect>
+<rect x="335.41" y="425.76" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.40</title></rect>
+<rect x="397.49" y="530.23" width="1.24" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.39</title></rect>
+<rect x="336.31" y="426.67" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.58</title></rect>
+<rect x="476.65" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=17.00</title></rect>
+<rect x="363.22" y="378.90" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.67</title></rect>
+<rect x="351.34" y="419.30" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.82</title></rect>
+<rect x="338.23" y="415.94" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.16</title></rect>
+<rect x="348.46" y="431.93" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.80</title></rect>
+<rect x="335.77" y="425.47" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.08</title></rect>
+<rect x="354.48" y="372.77" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.43</title></rect>
+<rect x="346.95" y="424.76" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.17</title></rect>
+<rect x="348.53" y="428.46" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.72</title></rect>
+<rect x="345.57" y="427.03" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.93</title></rect>
+<rect x="323.28" y="381.70" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=32.52</title></rect>
+<rect x="471.46" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.00</title></rect>
+<rect x="339.08" y="416.02" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.41</title></rect>
+<rect x="353.22" y="406.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.24</title></rect>
+<rect x="339.92" y="426.75" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.17</title></rect>
+<rect x="347.37" y="388.22" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.91</title></rect>
+<rect x="362.41" y="369.86" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.54</title></rect>
+<rect x="335.32" y="425.83" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.16</title></rect>
+<rect x="339.43" y="416.93" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.33</title></rect>
+<rect x="349.07" y="418.63" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.41</title></rect>
+<rect x="471.46" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="359.16" y="392.16" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.28</title></rect>
+<rect x="350.24" y="384.00" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.27</title></rect>
+<rect x="336.81" y="430.68" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.43</title></rect>
+<rect x="349.18" y="429.01" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.71</title></rect>
+<rect x="341.44" y="417.57" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.99</title></rect>
+<rect x="344.24" y="386.14" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.51</title></rect>
+<rect x="347.41" y="429.07" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.37</title></rect>
+<rect x="347.48" y="417.67" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.84</title></rect>
+<rect x="365.46" y="382.02" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.48</title></rect>
+<rect x="336.67" y="424.24" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.46</title></rect>
+<rect x="359.59" y="383.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.23</title></rect>
+<rect x="349.29" y="418.11" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.49</title></rect>
+<rect x="365.15" y="389.42" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.02</title></rect>
+<rect x="341.23" y="410.38" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.89</title></rect>
+<rect x="351.39" y="410.23" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.02</title></rect>
+<rect x="350.19" y="419.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.82</title></rect>
+<rect x="341.14" y="404.31" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.39</title></rect>
+<rect x="350.47" y="419.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.66</title></rect>
+<rect x="338.17" y="426.94" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.16</title></rect>
+<rect x="356.86" y="387.56" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.23</title></rect>
+<rect x="398.89" y="526.78" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=32.79</title></rect>
+<rect x="322.51" y="383.98" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.74</title></rect>
+<rect x="334.62" y="429.21" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.41</title></rect>
+<rect x="337.00" y="430.64" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.91</title></rect>
+<rect x="367.99" y="380.06" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.47</title></rect>
+<rect x="398.36" y="523.98" width="1.43" height="1.43" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.31</title></rect>
+<rect x="426.96" y="548.16" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=6.50</title></rect>
+<rect x="338.38" y="416.76" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.43</title></rect>
+<rect x="398.89" y="526.78" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.66</title></rect>
+<rect x="323.25" y="383.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.92</title></rect>
+<rect x="335.48" y="429.56" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.50</title></rect>
+<rect x="352.62" y="388.19" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.49</title></rect>
+<rect x="340.66" y="417.25" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.16</title></rect>
+<rect x="397.49" y="530.23" width="1.24" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.61</title></rect>
+<rect x="348.24" y="428.36" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.54</title></rect>
+<rect x="398.36" y="523.98" width="1.43" height="1.43" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.20</title></rect>
+<rect x="439.07" y="548.16" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=6.50</title></rect>
+<rect x="344.80" y="430.60" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=25.02</title></rect>
+<rect x="337.34" y="415.90" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.00</title></rect>
+<rect x="347.98" y="379.14" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.09</title></rect>
+<rect x="349.21" y="429.21" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.96</title></rect>
+<rect x="349.49" y="419.15" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.22</title></rect>
+<rect x="372.07" y="380.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.13</title></rect>
+<rect x="400.11" y="527.03" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.73</title></rect>
+<rect x="322.44" y="385.51" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=32.85</title></rect>
+<rect x="340.12" y="399.90" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.93</title></rect>
+<rect x="368.72" y="460.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=50.76</title></rect>
+<rect x="323.77" y="384.76" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.09</title></rect>
+<rect x="359.70" y="377.50" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.26</title></rect>
+<rect x="336.07" y="426.30" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.39</title></rect>
+<rect x="397.49" y="530.23" width="1.24" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.76</title></rect>
+<rect x="397.49" y="530.23" width="1.24" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.98</title></rect>
+<rect x="337.38" y="426.01" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.76</title></rect>
+<rect x="338.74" y="430.48" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.21</title></rect>
+<rect x="346.73" y="427.59" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.97</title></rect>
+<rect x="344.95" y="398.78" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.15</title></rect>
+<rect x="362.00" y="384.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.57</title></rect>
+<rect x="340.35" y="407.04" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.26</title></rect>
+<rect x="349.04" y="428.30" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.02</title></rect>
+<rect x="342.89" y="431.64" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.48</title></rect>
+<rect x="343.29" y="365.76" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.11</title></rect>
+<rect x="339.34" y="427.48" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.15</title></rect>
+<rect x="347.99" y="431.80" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.01</title></rect>
+<rect x="471.46" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=18.00</title></rect>
+<rect x="289.48" y="433.57" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=31.19</title></rect>
+<rect x="289.13" y="430.46" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=34.28</title></rect>
+<rect x="281.74" y="444.95" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=37.63</title></rect>
+<rect x="279.02" y="436.01" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=37.01</title></rect>
+<rect x="283.20" y="431.24" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.26</title></rect>
+<rect x="286.30" y="442.54" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=35.12</title></rect>
+<rect x="289.23" y="434.62" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=35.07</title></rect>
+<rect x="281.42" y="443.17" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=35.18</title></rect>
+<rect x="290.40" y="432.25" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=34.95</title></rect>
+<rect x="286.73" y="438.84" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=34.89</title></rect>
+<rect x="286.39" y="436.30" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.45</title></rect>
+<rect x="298.53" y="415.80" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=31.96</title></rect>
+<rect x="295.02" y="414.46" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=34.79</title></rect>
+<rect x="307.19" y="426.36" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=31.17</title></rect>
+<rect x="299.08" y="409.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.75</title></rect>
+<rect x="300.80" y="416.21" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.49</title></rect>
+<rect x="298.11" y="415.49" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=35.33</title></rect>
+<rect x="292.90" y="417.42" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=31.36</title></rect>
+<rect x="492.15" y="556.98" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.01</title></rect>
+<rect x="300.67" y="431.46" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=30.11</title></rect>
+<rect x="303.24" y="416.96" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=34.94</title></rect>
+<rect x="305.52" y="408.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=31.68</title></rect>
+<rect x="309.59" y="426.89" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=29.94</title></rect>
+<rect x="299.80" y="426.44" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=30.61</title></rect>
+<rect x="281.66" y="438.65" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=33.08</title></rect>
+<rect x="283.16" y="442.85" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=38.02</title></rect>
+<rect x="277.83" y="436.83" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=35.92</title></rect>
+<rect x="281.95" y="443.51" width="1.20" height="1.32" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.53</title></rect>
+<rect x="113.22" y="482.80" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=34.08</title></rect>
+<rect x="493.66" y="555.30" width="1.20" height="1.32" fill="#4d7099" fill-opacity="0.9"><title>other y=17.03</title></rect>
+<rect x="209.20" y="483.19" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=-26.92</title></rect>
+<rect x="314.23" y="400.97" width="1.20" height="1.32" fill="#4d7099" fill-opacity="0.9"><title>other y=35.11</title></rect>
+<rect x="59.54" y="481.57" width="1.20" height="1.32" fill="#4d7099" fill-opacity="0.9"><title>other y=88.91</title></rect>
+<rect x="185.73" y="653.65" width="1.20" height="1.32" fill="#4d7099" fill-opacity="0.9"><title>other y=34.08</title></rect>
+<rect x="1038.19" y="543.64" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=-26.92</title></rect>
+<rect x="370.39" y="382.02" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=14.16</title></rect>
+<rect x="385.44" y="378.90" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=12.95</title></rect>
+<rect x="370.94" y="380.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.02</title></rect>
+<rect x="372.41" y="384.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.61</title></rect>
+<rect x="376.08" y="389.42" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.12</title></rect>
+<rect x="492.20" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=18.00</title></rect>
+<rect x="363.52" y="380.06" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.85</title></rect>
+<rect x="375.15" y="377.50" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.50</title></rect>
+<rect x="375.33" y="383.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.51</title></rect>
+<rect x="376.01" y="369.86" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=14.38</title></rect>
+<rect x="389.39" y="384.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=14.05</title></rect>
+<rect x="390.08" y="382.02" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.39</title></rect>
+<rect x="370.43" y="384.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=12.53</title></rect>
+<rect x="371.12" y="382.02" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.88</title></rect>
+<rect x="371.79" y="382.02" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=29.55</title></rect>
+<rect x="368.47" y="378.90" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=28.90</title></rect>
+<rect x="492.20" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=19.00</title></rect>
+<rect x="376.16" y="380.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.89</title></rect>
+<rect x="364.00" y="392.16" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=28.75</title></rect>
+<rect x="368.62" y="384.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=29.83</title></rect>
+<rect x="369.36" y="389.42" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=28.17</title></rect>
+<rect x="374.22" y="380.06" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=29.41</title></rect>
+<rect x="365.96" y="377.50" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=29.66</title></rect>
+<rect x="365.81" y="383.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=29.64</title></rect>
+<rect x="359.73" y="372.77" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=29.15</title></rect>
+<rect x="367.50" y="369.86" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=28.82</title></rect>
+<rect x="537.58" y="382.02" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.62</title></rect>
+<rect x="492.20" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=20.00</title></rect>
+<rect x="540.54" y="378.90" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=12.34</title></rect>
+<rect x="528.16" y="380.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=14.26</title></rect>
+<rect x="544.90" y="392.16" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=12.58</title></rect>
+<rect x="540.89" y="384.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.41</title></rect>
+<rect x="535.07" y="389.42" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=14.11</title></rect>
+<rect x="535.10" y="380.06" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.72</title></rect>
+<rect x="543.45" y="377.50" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.63</title></rect>
+<rect x="543.58" y="383.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=11.66</title></rect>
+<rect x="549.36" y="372.77" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=12.27</title></rect>
+<rect x="541.46" y="369.86" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=12.44</title></rect>
+<rect x="492.20" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.00</title></rect>
+<rect x="590.11" y="437.19" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=35.51</title></rect>
+<rect x="586.89" y="434.77" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=42.26</title></rect>
+<rect x="591.85" y="437.63" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.31</title></rect>
+<rect x="594.15" y="448.23" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=42.36</title></rect>
+<rect x="594.85" y="437.94" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=37.24</title></rect>
+<rect x="582.65" y="423.69" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=41.54</title></rect>
+<rect x="595.42" y="441.76" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=40.80</title></rect>
+<rect x="596.51" y="428.52" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.64</title></rect>
+<rect x="594.03" y="444.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=41.09</title></rect>
+<rect x="591.96" y="424.20" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.65</title></rect>
+<rect x="429.04" y="417.49" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.39</title></rect>
+<rect x="583.05" y="419.93" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.85</title></rect>
+<rect x="591.44" y="456.84" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=43.74</title></rect>
+<rect x="587.36" y="422.27" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.82</title></rect>
+<rect x="591.29" y="453.86" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=44.54</title></rect>
+<rect x="588.78" y="438.89" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=40.66</title></rect>
+<rect x="587.21" y="420.19" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.60</title></rect>
+<rect x="589.66" y="436.48" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=40.58</title></rect>
+<rect x="586.73" y="439.63" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=40.85</title></rect>
+<rect x="589.86" y="430.06" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.58</title></rect>
+<rect x="595.15" y="434.42" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=37.71</title></rect>
+<rect x="585.72" y="444.95" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=42.82</title></rect>
+<rect x="591.78" y="419.70" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=35.18</title></rect>
+<rect x="591.40" y="419.06" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=31.78</title></rect>
+<rect x="579.64" y="420.57" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=38.19</title></rect>
+<rect x="573.78" y="418.84" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=37.60</title></rect>
+<rect x="581.81" y="424.35" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.91</title></rect>
+<rect x="581.24" y="419.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.31</title></rect>
+<rect x="589.04" y="439.63" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=43.37</title></rect>
+<rect x="594.66" y="443.48" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=42.29</title></rect>
+<rect x="596.15" y="435.00" width="1.20" height="1.32" fill="#4d7099" fill-opacity="0.9"><title>other y=44.44</title></rect>
+<rect x="787.54" y="481.57" width="1.20" height="1.32" fill="#4d7099" fill-opacity="0.9"><title>other y=42.53</title></rect>
+<rect x="753.26" y="483.19" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=11.84</title></rect>
+<rect x="609.74" y="402.58" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=39.11</title></rect>
+<rect x="399.45" y="530.35" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=43.87</title></rect>
+<rect x="399.45" y="530.35" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="399.45" y="530.35" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=18.03</title></rect>
+<rect x="470.96" y="557.64" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.97</title></rect>
+<rect x="471.08" y="557.97" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=17.49</title></rect>
+<rect x="469.54" y="556.60" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.49</title></rect>
+<rect x="493.20" y="557.89" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="481.14" y="557.76" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.58</title></rect>
+<rect x="481.25" y="557.76" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.62</title></rect>
+<rect x="486.58" y="557.76" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.51</title></rect>
+<rect x="480.81" y="557.97" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.53</title></rect>
+<rect x="476.10" y="557.76" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.28</title></rect>
+<rect x="473.38" y="557.02" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=14.50</title></rect>
+<rect x="490.67" y="557.31" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.92</title></rect>
+<rect x="489.53" y="558.26" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.46</title></rect>
+<rect x="484.84" y="557.76" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.55</title></rect>
+<rect x="473.71" y="556.61" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=20.47</title></rect>
+<rect x="493.20" y="557.89" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="480.25" y="557.97" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=20.50</title></rect>
+<rect x="485.45" y="557.98" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.47</title></rect>
+<rect x="479.01" y="556.81" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.70</title></rect>
+<rect x="486.29" y="556.94" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.01</title></rect>
+<rect x="481.11" y="556.99" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.01</title></rect>
+<rect x="486.02" y="557.01" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.91</title></rect>
+<rect x="488.99" y="556.94" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.47</title></rect>
+<rect x="475.81" y="556.94" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.02</title></rect>
+<rect x="473.73" y="556.98" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.57</title></rect>
+<rect x="473.29" y="556.56" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.51</title></rect>
+<rect x="472.47" y="557.89" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=27.00</title></rect>
+<rect x="490.42" y="557.97" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.54</title></rect>
+<rect x="485.45" y="557.98" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.50</title></rect>
+<rect x="489.65" y="557.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.51</title></rect>
+<rect x="449.94" y="543.71" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=18.38</title></rect>
+<rect x="458.56" y="548.16" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.38</title></rect>
+<rect x="473.67" y="557.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.55</title></rect>
+<rect x="471.22" y="556.49" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.01</title></rect>
+<rect x="476.10" y="556.53" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=27.00</title></rect>
+<rect x="482.63" y="558.07" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.00</title></rect>
+<rect x="497.95" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.50</title></rect>
+<rect x="497.95" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.50</title></rect>
+<rect x="497.95" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.02</title></rect>
+<rect x="497.95" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.02</title></rect>
+<rect x="494.00" y="556.38" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=19.29</title></rect>
+<rect x="487.82" y="558.07" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.00</title></rect>
+<rect x="497.95" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.00</title></rect>
+<rect x="497.91" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.76</title></rect>
+<rect x="472.33" y="558.03" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.97</title></rect>
+<rect x="472.34" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.96</title></rect>
+<rect x="477.52" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.96</title></rect>
+<rect x="492.73" y="558.03" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.98</title></rect>
+<rect x="496.49" y="556.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.27</title></rect>
+<rect x="493.00" y="558.07" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.00</title></rect>
+<rect x="482.63" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.94</title></rect>
+<rect x="487.82" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.94</title></rect>
+<rect x="491.59" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.93</title></rect>
+<rect x="467.38" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.00</title></rect>
+<rect x="467.44" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.00</title></rect>
+<rect x="466.64" y="556.94" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.02</title></rect>
+<rect x="472.27" y="558.07" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.00</title></rect>
+<rect x="467.49" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.04</title></rect>
+<rect x="470.04" y="557.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.73</title></rect>
+<rect x="470.08" y="557.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=14.24</title></rect>
+<rect x="467.49" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.00</title></rect>
+<rect x="467.44" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.98</title></rect>
+<rect x="467.44" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.96</title></rect>
+<rect x="467.38" y="558.09" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.96</title></rect>
+<rect x="470.04" y="557.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.69</title></rect>
+<rect x="469.96" y="557.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.22</title></rect>
+<rect x="468.59" y="556.38" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.66</title></rect>
+<rect x="472.27" y="558.07" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.00</title></rect>
+<rect x="470.01" y="557.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.17</title></rect>
+<rect x="469.94" y="557.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.75</title></rect>
+<rect x="470.01" y="557.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.26</title></rect>
+<rect x="470.04" y="557.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=25.78</title></rect>
+<rect x="469.12" y="556.78" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.22</title></rect>
+<rect x="480.42" y="517.36" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.49</title></rect>
+<rect x="479.51" y="515.42" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.56</title></rect>
+<rect x="487.42" y="511.04" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.28</title></rect>
+<rect x="485.98" y="515.38" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.49</title></rect>
+<rect x="471.44" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.01</title></rect>
+<rect x="482.34" y="510.65" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.56</title></rect>
+<rect x="482.65" y="516.41" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.97</title></rect>
+<rect x="476.85" y="502.69" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.75</title></rect>
+<rect x="487.17" y="512.27" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.48</title></rect>
+<rect x="477.70" y="509.89" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.95</title></rect>
+<rect x="477.53" y="504.58" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.51</title></rect>
+<rect x="481.67" y="504.69" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.12</title></rect>
+<rect x="483.08" y="507.39" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.76</title></rect>
+<rect x="477.98" y="499.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.04</title></rect>
+<rect x="473.75" y="510.32" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.58</title></rect>
+<rect x="472.01" y="557.55" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.00</title></rect>
+<rect x="484.42" y="537.48" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.47</title></rect>
+<rect x="400.89" y="528.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.62</title></rect>
+<rect x="400.89" y="528.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.00</title></rect>
+<rect x="400.89" y="528.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.00</title></rect>
+<rect x="479.24" y="541.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=13.52</title></rect>
+<rect x="484.42" y="536.19" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=13.52</title></rect>
+<rect x="366.70" y="405.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.76</title></rect>
+<rect x="390.74" y="400.85" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.50</title></rect>
+<rect x="471.43" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.97</title></rect>
+<rect x="390.51" y="402.63" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.41</title></rect>
+<rect x="395.68" y="400.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.26</title></rect>
+<rect x="373.16" y="407.82" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.80</title></rect>
+<rect x="418.66" y="404.64" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.96</title></rect>
+<rect x="422.30" y="402.21" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.97</title></rect>
+<rect x="471.50" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="428.32" y="398.88" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.90</title></rect>
+<rect x="429.54" y="404.90" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.40</title></rect>
+<rect x="489.96" y="364.77" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.54</title></rect>
+<rect x="482.74" y="398.27" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.17</title></rect>
+<rect x="485.01" y="403.47" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.19</title></rect>
+<rect x="478.99" y="403.73" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.57</title></rect>
+<rect x="458.09" y="373.20" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.04</title></rect>
+<rect x="440.34" y="377.53" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=24.43</title></rect>
+<rect x="476.65" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.00</title></rect>
+<rect x="493.16" y="357.27" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.48</title></rect>
+<rect x="505.76" y="364.28" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.46</title></rect>
+<rect x="493.41" y="357.84" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.09</title></rect>
+<rect x="458.89" y="373.19" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.96</title></rect>
+<rect x="456.63" y="375.95" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.49</title></rect>
+<rect x="438.36" y="382.80" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.69</title></rect>
+<rect x="436.82" y="386.99" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=25.94</title></rect>
+<rect x="474.37" y="403.75" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.51</title></rect>
+<rect x="493.39" y="356.20" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.72</title></rect>
+<rect x="492.63" y="406.38" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.97</title></rect>
+<rect x="487.01" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="446.48" y="384.52" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.90</title></rect>
+<rect x="503.98" y="364.68" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.06</title></rect>
+<rect x="457.98" y="373.71" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.91</title></rect>
+<rect x="446.85" y="376.86" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.56</title></rect>
+<rect x="487.12" y="360.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.26</title></rect>
+<rect x="495.00" y="357.98" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.35</title></rect>
+<rect x="452.52" y="378.85" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.94</title></rect>
+<rect x="443.75" y="376.21" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.65</title></rect>
+<rect x="496.21" y="361.97" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.30</title></rect>
+<rect x="461.02" y="377.45" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.01</title></rect>
+<rect x="400.06" y="527.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.30</title></rect>
+<rect x="487.01" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.00</title></rect>
+<rect x="499.80" y="359.18" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.96</title></rect>
+<rect x="483.16" y="398.13" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=17.78</title></rect>
+<rect x="457.09" y="382.88" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=19.34</title></rect>
+<rect x="452.01" y="390.31" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.02</title></rect>
+<rect x="433.78" y="377.99" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=25.41</title></rect>
+<rect x="485.92" y="362.89" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=16.46</title></rect>
+<rect x="454.83" y="384.26" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.03</title></rect>
+<rect x="570.06" y="369.06" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=31.39</title></rect>
+<rect x="589.16" y="397.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.39</title></rect>
+<rect x="588.71" y="403.41" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.65</title></rect>
+<rect x="487.01" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.00</title></rect>
+<rect x="590.87" y="403.68" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=30.90</title></rect>
+<rect x="596.43" y="371.28" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=27.31</title></rect>
+<rect x="603.13" y="375.81" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=21.90</title></rect>
+<rect x="567.46" y="361.57" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.51</title></rect>
+<rect x="561.03" y="370.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=34.63</title></rect>
+<rect x="566.07" y="362.79" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.00</title></rect>
+<rect x="608.04" y="379.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.45</title></rect>
+<rect x="605.59" y="385.56" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.38</title></rect>
+<rect x="487.01" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=19.00</title></rect>
+<rect x="599.39" y="400.53" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.30</title></rect>
+<rect x="568.62" y="359.83" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.18</title></rect>
+<rect x="581.33" y="408.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.69</title></rect>
+<rect x="610.02" y="379.24" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.54</title></rect>
+<rect x="559.13" y="371.71" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.07</title></rect>
+<rect x="594.76" y="372.62" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.54</title></rect>
+<rect x="599.30" y="375.79" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.24</title></rect>
+<rect x="578.57" y="361.21" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.97</title></rect>
+<rect x="568.60" y="361.52" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.67</title></rect>
+<rect x="603.09" y="375.27" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.97</title></rect>
+<rect x="487.01" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.00</title></rect>
+<rect x="603.79" y="373.51" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=23.76</title></rect>
+<rect x="566.64" y="366.57" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.00</title></rect>
+<rect x="563.50" y="364.39" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=33.58</title></rect>
+<rect x="587.40" y="398.51" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=31.89</title></rect>
+<rect x="604.51" y="387.18" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=26.13</title></rect>
+<rect x="606.72" y="375.73" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=20.46</title></rect>
+<rect x="577.55" y="364.21" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=32.83</title></rect>
+<rect x="598.09" y="383.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=25.41</title></rect>
+<rect x="487.01" y="556.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=18.00</title></rect>
+<rect x="417.24" y="378.69" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=38.60</title></rect>
+<rect x="420.91" y="382.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=38.77</title></rect>
+<rect x="329.24" y="359.56" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=45.98</title></rect>
+<rect x="313.09" y="364.87" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=50.56</title></rect>
+<rect x="387.05" y="360.27" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=39.70</title></rect>
+<rect x="385.72" y="363.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=39.35</title></rect>
+<rect x="312.78" y="371.06" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=50.00</title></rect>
+<rect x="369.25" y="373.48" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=47.17</title></rect>
+<rect x="428.97" y="382.81" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=39.59</title></rect>
+<rect x="321.38" y="373.68" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=46.27</title></rect>
+<rect x="329.21" y="359.31" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=46.84</title></rect>
+<rect x="319.22" y="363.14" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=49.64</title></rect>
+<rect x="325.53" y="366.57" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=46.09</title></rect>
+<rect x="316.13" y="364.21" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=48.73</title></rect>
+<rect x="390.57" y="366.26" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=36.92</title></rect>
+<rect x="417.55" y="377.90" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=39.19</title></rect>
+<rect x="331.12" y="369.58" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=45.61</title></rect>
+<rect x="328.24" y="376.58" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=47.53</title></rect>
+<rect x="306.85" y="366.33" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=51.57</title></rect>
+<rect x="329.11" y="369.19" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=48.31</title></rect>
+<rect x="304.63" y="342.49" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=59.18</title></rect>
+<rect x="285.26" y="366.51" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=69.04</title></rect>
+<rect x="301.14" y="336.10" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=57.91</title></rect>
+<rect x="476.65" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=20.00</title></rect>
+<rect x="312.18" y="338.20" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=55.90</title></rect>
+<rect x="302.87" y="335.64" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=58.42</title></rect>
+<rect x="284.58" y="366.39" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=62.31</title></rect>
+<rect x="284.82" y="372.94" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=68.60</title></rect>
+<rect x="290.44" y="374.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=70.74</title></rect>
+<rect x="299.20" y="336.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=57.22</title></rect>
+<rect x="326.32" y="378.13" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=58.71</title></rect>
+<rect x="284.01" y="376.19" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=64.53</title></rect>
+<rect x="476.65" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=19.00</title></rect>
+<rect x="314.34" y="337.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=57.46</title></rect>
+<rect x="293.61" y="344.73" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=56.55</title></rect>
+<rect x="300.55" y="337.48" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=56.76</title></rect>
+<rect x="305.45" y="339.11" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=57.51</title></rect>
+<rect x="283.51" y="369.25" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=59.73</title></rect>
+<rect x="306.10" y="335.64" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=56.86</title></rect>
+<rect x="476.65" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=18.00</title></rect>
+<rect x="282.47" y="368.36" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=70.50</title></rect>
+<rect x="296.28" y="345.43" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=57.73</title></rect>
+<rect x="234.46" y="328.38" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=54.04</title></rect>
+<rect x="200.56" y="336.75" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=53.59</title></rect>
+<rect x="197.07" y="340.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=53.28</title></rect>
+<rect x="196.45" y="341.19" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=55.09</title></rect>
+<rect x="216.23" y="316.41" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=59.05</title></rect>
+<rect x="211.82" y="319.97" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=64.57</title></rect>
+<rect x="240.62" y="323.55" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=52.90</title></rect>
+<rect x="238.30" y="332.30" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=50.51</title></rect>
+<rect x="241.17" y="325.77" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=53.33</title></rect>
+<rect x="214.91" y="313.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=58.11</title></rect>
+<rect x="210.89" y="312.32" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=58.01</title></rect>
+<rect x="205.32" y="319.18" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=64.19</title></rect>
+<rect x="204.53" y="326.93" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=66.08</title></rect>
+<rect x="191.36" y="332.18" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=54.07</title></rect>
+<rect x="240.48" y="320.93" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=52.30</title></rect>
+<rect x="198.94" y="349.64" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=52.93</title></rect>
+<rect x="201.44" y="314.21" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=60.26</title></rect>
+<rect x="239.65" y="336.02" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=51.95</title></rect>
+<rect x="217.07" y="319.13" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=59.72</title></rect>
+<rect x="213.78" y="321.31" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=63.11</title></rect>
+<rect x="231.72" y="314.88" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=51.90</title></rect>
+<rect x="239.06" y="321.80" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=51.80</title></rect>
+<rect x="208.89" y="315.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=59.60</title></rect>
+<rect x="211.65" y="316.29" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=62.79</title></rect>
+<rect x="487.01" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.00</title></rect>
+<rect x="237.58" y="327.40" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=52.35</title></rect>
+<rect x="207.62" y="308.64" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=55.54</title></rect>
+<rect x="240.96" y="327.31" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=51.67</title></rect>
+<rect x="201.80" y="338.75" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=54.01</title></rect>
+<rect x="206.43" y="318.64" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=58.55</title></rect>
+<rect x="200.49" y="324.05" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=60.40</title></rect>
+<rect x="210.18" y="318.79" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=66.12</title></rect>
+<rect x="231.22" y="318.73" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=52.96</title></rect>
+<rect x="208.40" y="325.74" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=60.88</title></rect>
+<rect x="571.52" y="294.40" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=75.61</title></rect>
+<rect x="579.56" y="271.07" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=80.40</title></rect>
+<rect x="580.83" y="265.60" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=80.55</title></rect>
+<rect x="572.13" y="266.21" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=81.21</title></rect>
+<rect x="554.50" y="299.61" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=81.17</title></rect>
+<rect x="527.76" y="297.92" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=83.41</title></rect>
+<rect x="576.87" y="300.78" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=74.60</title></rect>
+<rect x="586.83" y="290.51" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=73.53</title></rect>
+<rect x="574.07" y="299.35" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=74.48</title></rect>
+<rect x="560.04" y="300.76" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=81.30</title></rect>
+<rect x="561.85" y="300.08" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=82.04</title></rect>
+<rect x="531.33" y="295.37" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=84.42</title></rect>
+<rect x="520.35" y="289.38" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=84.55</title></rect>
+<rect x="580.57" y="271.13" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=82.43</title></rect>
+<rect x="580.48" y="302.63" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=74.64</title></rect>
+<rect x="579.92" y="258.59" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=79.44</title></rect>
+<rect x="552.61" y="295.46" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=84.18</title></rect>
+<rect x="578.54" y="288.77" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=73.48</title></rect>
+<rect x="550.35" y="298.04" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=81.04</title></rect>
+<rect x="534.09" y="296.73" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=82.51</title></rect>
+<rect x="586.00" y="303.64" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=76.43</title></rect>
+<rect x="583.02" y="300.90" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=74.65</title></rect>
+<rect x="553.78" y="297.48" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=82.64</title></rect>
+<rect x="537.40" y="299.96" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=83.15</title></rect>
+<rect x="579.28" y="295.64" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=74.63</title></rect>
+<rect x="575.54" y="300.25" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=82.07</title></rect>
+<rect x="581.81" y="296.86" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=73.86</title></rect>
+<rect x="576.71" y="270.16" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=80.18</title></rect>
+<rect x="558.67" y="292.80" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=82.45</title></rect>
+<rect x="549.67" y="286.47" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=83.61</title></rect>
+<rect x="520.91" y="299.16" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=84.27</title></rect>
+<rect x="476.65" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.00</title></rect>
+<rect x="580.00" y="300.69" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=76.55</title></rect>
+<rect x="545.06" y="288.95" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=82.33</title></rect>
+<rect x="399.50" y="526.33" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.00</title></rect>
+<rect x="492.55" y="437.17" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=2.99</title></rect>
+<rect x="482.87" y="529.24" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=11.73</title></rect>
+<rect x="493.73" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.30</title></rect>
+<rect x="493.71" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.70</title></rect>
+<rect x="492.18" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.71</title></rect>
+<rect x="492.18" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="490.66" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.71</title></rect>
+<rect x="477.16" y="557.44" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.00</title></rect>
+<rect x="493.70" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="492.18" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.30</title></rect>
+<rect x="490.68" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.29</title></rect>
+<rect x="490.74" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="492.15" y="556.87" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="400.06" y="527.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=10.00</title></rect>
+<rect x="400.06" y="527.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="400.06" y="527.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="482.04" y="554.64" width="1.20" height="1.58" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="487.45" y="557.39" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.99</title></rect>
+<rect x="488.50" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.28</title></rect>
+<rect x="486.95" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.28</title></rect>
+<rect x="488.48" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.98</title></rect>
+<rect x="486.95" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.69</title></rect>
+<rect x="485.44" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.69</title></rect>
+<rect x="488.49" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.69</title></rect>
+<rect x="485.52" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.99</title></rect>
+<rect x="477.16" y="557.44" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="486.95" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.98</title></rect>
+<rect x="485.46" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.27</title></rect>
+<rect x="482.36" y="557.39" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.01</title></rect>
+<rect x="481.86" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.31</title></rect>
+<rect x="480.37" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.30</title></rect>
+<rect x="483.40" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=13.72</title></rect>
+<rect x="481.86" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.01</title></rect>
+<rect x="483.41" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.31</title></rect>
+<rect x="480.34" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=13.72</title></rect>
+<rect x="481.86" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=13.72</title></rect>
+<rect x="477.16" y="557.44" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="483.39" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.01</title></rect>
+<rect x="480.43" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.01</title></rect>
+<rect x="486.95" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.32</title></rect>
+<rect x="485.46" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.31</title></rect>
+<rect x="488.49" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=13.72</title></rect>
+<rect x="486.95" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.02</title></rect>
+<rect x="488.50" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.32</title></rect>
+<rect x="485.43" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=13.73</title></rect>
+<rect x="486.95" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=13.73</title></rect>
+<rect x="488.48" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.02</title></rect>
+<rect x="477.16" y="557.44" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.00</title></rect>
+<rect x="485.52" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.02</title></rect>
+<rect x="487.45" y="557.39" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.02</title></rect>
+<rect x="492.12" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.32</title></rect>
+<rect x="490.63" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.31</title></rect>
+<rect x="493.66" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.72</title></rect>
+<rect x="492.12" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.02</title></rect>
+<rect x="493.67" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.32</title></rect>
+<rect x="490.61" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.73</title></rect>
+<rect x="492.12" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.73</title></rect>
+<rect x="493.65" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.02</title></rect>
+<rect x="490.69" y="556.79" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.02</title></rect>
+<rect x="492.64" y="557.49" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=15.02</title></rect>
+<rect x="400.06" y="527.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.00</title></rect>
+<rect x="400.06" y="527.01" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.00</title></rect>
+<rect x="486.46" y="556.53" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.00</title></rect>
+<rect x="491.65" y="556.53" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=24.00</title></rect>
+<rect x="399.50" y="526.33" width="1.20" height="1.20" fill="#a89880" fill-opacity="0.9"><title>terrain y=22.00</title></rect>
+<rect x="429.99" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="462.75" y="544.17" width="1.20" height="1.62" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="424.81" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="461.10" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="455.91" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="455.91" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="461.10" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.00</title></rect>
+<rect x="455.91" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.00</title></rect>
+<rect x="461.10" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.00</title></rect>
+<rect x="455.91" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.00</title></rect>
+<rect x="461.10" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=19.00</title></rect>
+<rect x="455.91" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=19.00</title></rect>
+<rect x="462.75" y="544.17" width="1.20" height="1.62" fill="#4d7099" fill-opacity="0.9"><title>other y=20.00</title></rect>
+<rect x="424.81" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="455.91" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=20.00</title></rect>
+<rect x="455.91" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=17.00</title></rect>
+<rect x="461.10" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=17.00</title></rect>
+<rect x="461.10" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="462.75" y="544.17" width="1.20" height="1.62" fill="#4d7099" fill-opacity="0.9"><title>other y=15.00</title></rect>
+<rect x="427.58" y="548.17" width="1.63" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="476.65" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="424.81" y="427.33" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=5.00</title></rect>
+<rect x="481.83" y="525.82" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=20.00</title></rect>
+<rect x="455.91" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.00</title></rect>
+<rect x="445.54" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=19.00</title></rect>
+<rect x="445.54" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=18.00</title></rect>
+<rect x="445.54" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=20.00</title></rect>
+<rect x="445.54" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.00</title></rect>
+<rect x="440.36" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.00</title></rect>
+<rect x="440.36" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.00</title></rect>
+<rect x="440.36" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=18.00</title></rect>
+<rect x="445.54" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=23.00</title></rect>
+<rect x="445.54" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="440.36" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="440.36" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="445.54" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="424.81" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.00</title></rect>
+<rect x="492.20" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="489.61" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.00</title></rect>
+<rect x="487.01" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=14.00</title></rect>
+<rect x="492.20" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.50</title></rect>
+<rect x="442.89" y="683.80" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=4.94</title></rect>
+<rect x="437.32" y="536.31" width="1.88" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=7.00</title></rect>
+<rect x="409.26" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="475.79" y="554.05" width="1.20" height="1.81" fill="#4d7099" fill-opacity="0.9"><title>other y=14.00</title></rect>
+<rect x="487.01" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=20.00</title></rect>
+<rect x="481.83" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="471.46" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=18.00</title></rect>
+<rect x="454.70" y="692.34" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=19.96</title></rect>
+<rect x="471.46" y="556.92" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=21.00</title></rect>
+<rect x="518.12" y="515.45" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=11.00</title></rect>
+<rect x="455.91" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=15.00</title></rect>
+<rect x="440.36" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=18.00</title></rect>
+<rect x="426.46" y="549.36" width="1.20" height="1.62" fill="#4d7099" fill-opacity="0.9"><title>other y=21.00</title></rect>
+<rect x="422.29" y="543.58" width="1.67" height="1.85" fill="#4d7099" fill-opacity="0.9"><title>other y=23.00</title></rect>
+<rect x="411.92" y="543.58" width="1.67" height="1.85" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="411.92" y="543.58" width="1.67" height="1.85" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="409.26" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=26.00</title></rect>
+<rect x="455.03" y="549.33" width="1.20" height="1.63" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="426.43" y="549.33" width="1.20" height="1.63" fill="#4d7099" fill-opacity="0.9"><title>other y=22.00</title></rect>
+<rect x="440.36" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=19.00</title></rect>
+<rect x="455.91" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=16.00</title></rect>
+<rect x="440.36" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=19.00</title></rect>
+<rect x="424.81" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.00</title></rect>
+<rect x="406.74" y="548.77" width="1.67" height="1.85" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="409.26" y="551.74" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=25.00</title></rect>
+<rect x="442.02" y="544.17" width="1.20" height="1.62" fill="#4d7099" fill-opacity="0.9"><title>other y=20.00</title></rect>
+<rect x="431.65" y="544.17" width="1.20" height="1.62" fill="#4d7099" fill-opacity="0.9"><title>other y=23.00</title></rect>
+<rect x="431.65" y="544.17" width="1.20" height="1.62" fill="#4d7099" fill-opacity="0.9"><title>other y=21.00</title></rect>
+<rect x="429.99" y="546.55" width="1.20" height="1.20" fill="#4d7099" fill-opacity="0.9"><title>other y=22.00</title></rect>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="483.8" y="551.0" width="10" height="10" fill="#c060ff" transform="rotate(45 488.8 556.0)"><title>ISLE_Core_D</title></rect>
+<text x="496.8" y="560.0" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="481.9" y="553.6" width="10" height="10" fill="#c060ff" transform="rotate(45 486.9 558.6)"><title>LIGHTKIT_Cube</title></rect>
+<text x="494.9" y="562.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="468.3" y="595.2" width="10" height="10" fill="#c060ff" transform="rotate(45 473.3 600.2)"><title>TER_TILE_Marble_Pattern_1x1m_A</title></rect>
+<text x="481.3" y="604.2" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="258.7" y="323.9" width="10" height="10" fill="#c060ff" transform="rotate(45 263.7 328.9)"><title>ARCH_Cathedral_Wall_Base_Tall_A_2M_B</title></rect>
+<text x="271.7" y="332.9" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="349.3" y="324.9" width="10" height="10" fill="#c060ff" transform="rotate(45 354.3 329.9)"><title>FOL_THAI_Bamboo_D</title></rect>
+<text x="362.3" y="333.9" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="445.5" y="312.6" width="10" height="10" fill="#c060ff" transform="rotate(45 450.5 317.6)"><title>FOL_TROP_Palm_A</title></rect>
+<text x="458.5" y="321.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="490.4" y="419.9" width="10" height="10" fill="#c060ff" transform="rotate(45 495.4 424.9)"><title>FOL_TROP_Palm_A</title></rect>
+<text x="503.4" y="428.9" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="521.6" y="417.7" width="10" height="10" fill="#c060ff" transform="rotate(45 526.6 422.7)"><title>TER_Cliff_Boulder_D</title></rect>
+<text x="534.6" y="426.7" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="586.1" y="386.6" width="10" height="10" fill="#c060ff" transform="rotate(45 591.1 391.6)"><title>TER_Cliff_Boulder_D</title></rect>
+<text x="599.1" y="395.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="318.3" y="323.9" width="10" height="10" fill="#c060ff" transform="rotate(45 323.3 328.9)"><title>Nebula_Star_Cluster_A</title></rect>
+<text x="331.3" y="332.9" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="317.0" y="425.0" width="10" height="10" fill="#c060ff" transform="rotate(45 322.0 430.0)"><title>TER_Cliff_Boulder_A</title></rect>
+<text x="330.0" y="434.0" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="309.4" y="427.2" width="10" height="10" fill="#c060ff" transform="rotate(45 314.4 432.2)"><title>TER_Cliff_Boulder_D</title></rect>
+<text x="322.4" y="436.2" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="312.4" y="428.6" width="10" height="10" fill="#c060ff" transform="rotate(45 317.4 433.6)"><title>ARCH_EURO_Ruin_Railing_AA</title></rect>
+<text x="325.4" y="437.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="308.5" y="431.2" width="10" height="10" fill="#c060ff" transform="rotate(45 313.5 436.2)"><title>ARCH_THAI_Bldg_Wall_Panel_1M_D</title></rect>
+<text x="321.5" y="440.2" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="305.9" y="439.9" width="10" height="10" fill="#c060ff" transform="rotate(45 310.9 444.9)"><title>ARCH_THAI_Roof_A_2x3x3</title></rect>
+<text x="318.9" y="448.9" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="309.4" y="427.2" width="10" height="10" fill="#c060ff" transform="rotate(45 314.4 432.2)"><title>ARCH_THAI_AwningBig_A</title></rect>
+<text x="322.4" y="436.2" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="317.0" y="425.0" width="10" height="10" fill="#c060ff" transform="rotate(45 322.0 430.0)"><title>TER_Cliff_Boulder_D</title></rect>
+<text x="330.0" y="434.0" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="308.7" y="430.6" width="10" height="10" fill="#c060ff" transform="rotate(45 313.7 435.6)"><title>ARCH_THAI_Bldg_Wall_Panel_1M_A</title></rect>
+<text x="321.7" y="439.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="314.6" y="426.5" width="10" height="10" fill="#c060ff" transform="rotate(45 319.6 431.5)"><title>ARCH_EURO_Ruin_Railing_AA</title></rect>
+<text x="327.6" y="435.5" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="336.5" y="436.0" width="10" height="10" fill="#c060ff" transform="rotate(45 341.5 441.0)"><title>TER_Cliff_Boulder_D</title></rect>
+<text x="349.5" y="445.0" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="397.4" y="524.2" width="10" height="10" fill="#c060ff" transform="rotate(45 402.4 529.2)"><title>TER_TILE_Marble_Pattern_1x1m_A</title></rect>
+<text x="410.4" y="533.2" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="339.3" y="428.2" width="10" height="10" fill="#c060ff" transform="rotate(45 344.3 433.2)"><title>TER_MTN_Sharp_D</title></rect>
+<text x="352.3" y="437.2" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="335.3" y="427.5" width="10" height="10" fill="#c060ff" transform="rotate(45 340.3 432.5)"><title>TER_Cliff_Boulder_D</title></rect>
+<text x="348.3" y="436.5" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="331.4" y="426.0" width="10" height="10" fill="#c060ff" transform="rotate(45 336.4 431.0)"><title>TER_Cliff_Boulder_D</title></rect>
+<text x="344.4" y="435.0" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="395.7" y="525.5" width="10" height="10" fill="#c060ff" transform="rotate(45 400.7 530.5)"><title>ARCH_THAI_Temple_Column_Top_A</title></rect>
+<text x="408.7" y="534.5" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="334.0" y="427.8" width="10" height="10" fill="#c060ff" transform="rotate(45 339.0 432.8)"><title>FOL_TROP_Palm_A</title></rect>
+<text x="347.0" y="436.8" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="342.0" y="429.1" width="10" height="10" fill="#c060ff" transform="rotate(45 347.0 434.1)"><title>FOL_DECI_Trees_Pine_B_Canopy</title></rect>
+<text x="355.0" y="438.1" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="345.3" y="428.7" width="10" height="10" fill="#c060ff" transform="rotate(45 350.3 433.7)"><title>ARCH_THAI_Bldg_Arch_1M_A</title></rect>
+<text x="358.3" y="437.7" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="395.7" y="525.5" width="10" height="10" fill="#c060ff" transform="rotate(45 400.7 530.5)"><title>ARCH_THAI_Temple_Column_Top_A</title></rect>
+<text x="408.7" y="534.5" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="451.7" y="714.1" width="10" height="10" fill="#c060ff" transform="rotate(45 456.7 719.1)"><title>TER_TILE_Marble_Pattern_Border_A_1M_A</title></rect>
+<text x="464.7" y="723.1" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="478.1" y="553.6" width="10" height="10" fill="#c060ff" transform="rotate(45 483.1 558.6)"><title>ISLE_Core_D</title></rect>
+<text x="491.1" y="562.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="476.2" y="553.6" width="10" height="10" fill="#c060ff" transform="rotate(45 481.2 558.6)"><title>ARCH_TECH_Glow_Line_A</title></rect>
+<text x="489.2" y="562.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="483.8" y="535.6" width="10" height="10" fill="#c060ff" transform="rotate(45 488.8 540.6)"><title>TER_TILE_Marble_Pattern_Border_A_1M_Dmg_B</title></rect>
+<text x="496.8" y="544.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="469.6" y="533.0" width="10" height="10" fill="#c060ff" transform="rotate(45 474.6 538.0)"><title>TER_TILE_Marble_Pattern_Border_A_1M_B</title></rect>
+<text x="482.6" y="542.0" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="469.6" y="529.1" width="10" height="10" fill="#c060ff" transform="rotate(45 474.6 534.1)"><title>ARCH_TECH_Glow_Line_A</title></rect>
+<text x="482.6" y="538.1" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_Border_A_1M_A</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="397.4" y="524.2" width="10" height="10" fill="#c060ff" transform="rotate(45 402.4 529.2)"><title>TER_TILE_Marble_Pattern_1x1m_A</title></rect>
+<text x="410.4" y="533.2" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.6" y="524.3" width="10" height="10" fill="#c060ff" transform="rotate(45 401.6 529.3)"><title>ARCH_TECH_Block_1x3M_A</title></rect>
+<text x="409.6" y="533.3" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="488.9" y="540.8" width="10" height="10" fill="#c060ff" transform="rotate(45 493.9 545.8)"><title>LIGHTKIT_Cube</title></rect>
+<text x="501.9" y="549.8" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="397.4" y="524.2" width="10" height="10" fill="#c060ff" transform="rotate(45 402.4 529.2)"><title>TER_TILE_Marble_Pattern_1x1m_A</title></rect>
+<text x="410.4" y="533.2" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="396.3" y="523.6" width="10" height="10" fill="#c060ff" transform="rotate(45 401.3 528.6)"><title>ARCH_TECH_Block_1x1M_B</title></rect>
+<text x="409.3" y="532.6" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="489.0" y="551.0" width="10" height="10" fill="#c060ff" transform="rotate(45 494.0 556.0)"><title>editorUI_missing</title></rect>
+<text x="502.0" y="560.0" fill="#c060ff" font-size="11">TOWER</text>
+<rect x="60" y="1057" width="14" height="10" fill="#31506e"/><text x="80" y="1066" fill="#8b949e" font-size="12">island/floor</text>
+<rect x="190" y="1057" width="14" height="10" fill="#a89880"/><text x="210" y="1066" fill="#8b949e" font-size="12">rock/wall</text>
+<circle cx="310" cy="1062" r="5" fill="#ffd54a"/><text x="320" y="1066" fill="#8b949e" font-size="12">Sun</text>
+<rect x="380" y="1058" width="8" height="8" fill="#c060ff" transform="rotate(45 384 1062)"/><text x="400" y="1066" fill="#8b949e" font-size="12">Tower</text>
+<rect x="960" y="1060" width="51.8" height="4" fill="#e6edf3"/><text x="960" y="1054" fill="#e6edf3" font-size="12">10 units</text>
+</svg>
