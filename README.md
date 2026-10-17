@@ -19,6 +19,10 @@
 | `svg/` | 142 MB | 974 张人类可读俯视图（实心形状+标签+图例，可悬停查询） |
 | `book/LEVEL_CATALOG_book.md` | 453 KB | 关卡目录全书（中文区名/塔门槛/关卡清单） |
 | `book/difficulty_curve.md` | — | 难度曲线与机制图谱（16 机制首现/共现/塔门槛/34 组统计） |
+| `book/story_and_themes.md` | — | 主题与剧情解读（游戏文本 × Blow 访谈互证） |
+| `book/podcast_solo.md` | — | 播客解读稿（单人独白，九大主题题眼+解说） |
+| **`book/plot_reconstruction.md`** | — | **剧情全梳理**（六条故事线/总时间线/结局序列/未解之谜，全带段落出处） |
+| **`book/voices/`** | ~650 KB | **全角色文本集**：20 个角色分册 + 合订本（5,727 台词块，中英对照+导演注释，演员表） |
 | `data/levels_catalog.json` | 906 KB | 目录结构化数据 |
 | `data/mechanic_atlas.json` | — | 机制首现/共现/塔/难度代理 |
 | `data/levels_layout.json.gz` | 46 MB | **全实例布局**（解压后 270MB，121 万实例：类型/坐标/旋转/包围盒/UI名/资产名/引用） |
